@@ -1,0 +1,5 @@
+G:\ProjectsAndPractices\Mvc5IdentityExample\Mvc5IdentityExample\Mvc5IdentityExample.Domain\bin\Debug\Mvc5IdentityExample.Domain.dll
+G:\ProjectsAndPractices\Mvc5IdentityExample\Mvc5IdentityExample\Mvc5IdentityExample.Domain\bin\Debug\Mvc5IdentityExample.Domain.pdb
+G:\ProjectsAndPractices\Mvc5IdentityExample\Mvc5IdentityExample\Mvc5IdentityExample.Domain\obj\Debug\Mvc5IdentityExample.Domain.csprojResolveAssemblyReference.cache
+G:\ProjectsAndPractices\Mvc5IdentityExample\Mvc5IdentityExample\Mvc5IdentityExample.Domain\obj\Debug\Mvc5IdentityExample.Domain.dll
+G:\ProjectsAndPractices\Mvc5IdentityExample\Mvc5IdentityExample\Mvc5IdentityExample.Domain\obj\Debug\Mvc5IdentityExample.Domain.pdb
